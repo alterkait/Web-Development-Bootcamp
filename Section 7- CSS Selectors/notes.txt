@@ -1,0 +1,13 @@
+in css,
+* {
+    ...
+}
+is the universal selector. it changes attribute of EVERYTHING
+
+, can bu used to style several elements|:
+h1, h2{
+    color: black;
+}
+
+color pallete website
+https://coolors.co/palettes/trending

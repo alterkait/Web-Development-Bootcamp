@@ -1,0 +1,16 @@
+body{
+    background-color: #457b9d;
+}
+
+h1, h2{
+    color: #a8dadc;
+}
+
+button{
+    background-color: #e63946;
+}
+
+#signup_button{
+    background-color: #fca311;
+    color: white;
+}
